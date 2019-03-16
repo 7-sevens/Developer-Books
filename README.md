@@ -1,4 +1,13 @@
-# TimberMan
-Timberman based on cocos2d-x 3.8
+# Repositorie Describe
 
-blog: http://www.developer1024.com/
+>- repositorie:  Developer Books
+>
+>- brief: 编程开发相关书籍收集分享，持续更新...
+>
+
+---
+
+## C
+
+- [《C语言接口与实现》](./C/C语言接口与实现.pdf)
+- [《C陷阱与缺陷》](./C/C陷阱与缺陷.pdf)
