@@ -7,7 +7,6 @@
 
 ## 编程语言相关书籍
 ---
-
 ### C
 
 - [《C专家编程》](./C/C专家编程.pdf)
@@ -32,6 +31,10 @@
 - [《Effective Java 中文版（第2版）》](./Java/Effective%20Java%20中文版（第2版）.pdf)
 - [《Effective Java 英文版（第2版）》](./Java/Effective%20Java%20英文版（第2版）.pdf)
 - [《Java编程思想（第4版）》](./Java/Java编程思想（第4版）.pdf)
+
+
+### Lua
+- [《Lua5.3参考手册》](./Lua/Lua5.3参考手册.pdf)
 
 
 ---
