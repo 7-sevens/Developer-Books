@@ -34,7 +34,7 @@
 
 ### Java
 
-- 《Java语言程序设计-基础篇(原书第10版)》[网盘下载](链接:https://pan.baidu.com/s/1x3fG3PJRjnxdZ8ZOyKh4FQ) （提取密码：xx8k）
+- 《Java语言程序设计-基础篇(原书第10版)》[网盘下载](链接:https://pan.baidu.com/s/1x3fG3PJRjnxdZ8ZOyKh4FQ) |（提取密码：xx8k）
 - [《JAVA核心技术(卷1)基础知识(第8版)》](./Java/JAVA核心技术(卷1)基础知识(第8版).pdf)
 - [《JAVA核心技术(卷2)高级特性(第8版)》](./Java/JAVA核心技术(卷2)高级特性(第8版).pdf)
 - [《Effective Java 中文版（第2版）》](./Java/Effective%20Java%20中文版（第2版）.pdf)
