@@ -1,8 +1,8 @@
-# Repositorie Describe
+# Repository Describe
 
 [https://github.com/7-sevens/Developer-Books](https://github.com/7-sevens/Developer-Books)
 
->- repositorie:  [Developer Books](https://github.com/7-sevens/Developer-Books)
+>- repository:  [Developer Books](https://github.com/7-sevens/Developer-Books)
 >
 >- brief: 编程开发相关书籍收集分享，持续更新...
 >
@@ -23,6 +23,7 @@
 
 ### C++
 
+- [《C++ Primer（第5版）》](./Cpp/C++%20Primer（第5版）.pdf)
 - [《C++ Primer Plus（第5版）》](./Cpp/C++%20Primer%20Plus（第5版）.pdf)
 - [《C++ STL中文版》](./Cpp/C++%20STL中文版.pdf)
 - [《Effective C++中文版》](./Cpp/Effective%20C++中文版.pdf)
@@ -32,6 +33,7 @@
 - [《C++11新特性解析与应用》](./Cpp/C++11新特性解析与应用.pdf)
 - [《C++反汇编与逆向分析技术揭秘》](./Cpp/C++反汇编与逆向分析技术揭秘.pdf)
 
+
 ### Java
 
 - 《Java语言程序设计-基础篇(原书第10版)》[网盘下载](https://pan.baidu.com/s/1x3fG3PJRjnxdZ8ZOyKh4FQ) [提取密码：xx8k]
@@ -40,6 +42,15 @@
 - [《Effective Java 中文版（第2版）》](./Java/Effective%20Java%20中文版（第2版）.pdf)
 - [《Effective Java 英文版（第2版）》](./Java/Effective%20Java%20英文版（第2版）.pdf)
 - [《Java编程思想（第4版）》](./Java/Java编程思想（第4版）.pdf)
+
+
+### Python
+- [《Python基础教程（第2版）》](./Python/Python基础教程（第2版）.pdf)
+- [《Python编程从入门到实践》](./Python/Python编程从入门到实践.pdf)
+- [《Python技术手册(第2版)》](./Python/Python技术手册（第2版）.pdf)
+- [《Python核心编程》](./Python/Python核心编程.pdf)
+- [《Python Cookbook》](./Python/Python%20Cookbook.pdf)
+- [《Python源码剖析》](./Python/Python源码剖析.pdf)
 
 
 ### Lua
