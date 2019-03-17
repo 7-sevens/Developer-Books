@@ -1,8 +1,12 @@
 # Repositorie Describe
 
->- repositorie:  Developer Books
+[https://github.com/7-sevens/Developer-Books](https://github.com/7-sevens/Developer-Books)
+
+>- repositorie:  [Developer Books](https://github.com/7-sevens/Developer-Books)
 >
 >- brief: 编程开发相关书籍收集分享，持续更新...
+>
+>- remark: 关于本仓库端相关pdf书籍文件，100M以内的文件会直接上传到该仓库，大于100M到会上传到网盘
 >
 
 ## 编程语言相关书籍
@@ -30,7 +34,7 @@
 
 ### Java
 
-- [《Java语言程序设计-基础篇(原书第10版)》](./Java/Java语言程序设计-基础篇(原书第10版.pdf)
+- 《Java语言程序设计-基础篇(原书第10版)》[网盘下载](链接:https://pan.baidu.com/s/1x3fG3PJRjnxdZ8ZOyKh4FQ)（提取密码：xx8k）
 - [《JAVA核心技术(卷1)基础知识(第8版)》](./Java/JAVA核心技术(卷1)基础知识(第8版).pdf)
 - [《JAVA核心技术(卷2)高级特性(第8版)》](./Java/JAVA核心技术(卷2)高级特性(第8版).pdf)
 - [《Effective Java 中文版（第2版）》](./Java/Effective%20Java%20中文版（第2版）.pdf)
