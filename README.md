@@ -48,6 +48,10 @@
 - [《Java编程思想（第4版）》](./Java/Java编程思想（第4版）.pdf)
 
 
+### Swift
+- [《The Swift Programming Language 中文版-v1.8》](./Swift/The%20Swift%20Programming%20Language%20中文版-v1.8.pdf)
+
+
 ### Python
 - [《Python基础教程（第2版）》](./Python/Python基础教程（第2版）.pdf)
 - [《Python编程从入门到实践》](./Python/Python编程从入门到实践.pdf)
