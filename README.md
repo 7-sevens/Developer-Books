@@ -31,6 +31,8 @@
 ### Java
 
 - [《Java语言程序设计-基础篇(原书第10版)》](./Java/Java语言程序设计-基础篇(原书第10版.pdf)
+- [《JAVA核心技术(卷1)基础知识(第8版)》](./Java/JAVA核心技术(卷1)基础知识(第8版).pdf)
+- [《JAVA核心技术(卷2)高级特性(第8版)》](./Java/JAVA核心技术(卷2)高级特性(第8版).pdf)
 - [《Effective Java 中文版（第2版）》](./Java/Effective%20Java%20中文版（第2版）.pdf)
 - [《Effective Java 英文版（第2版）》](./Java/Effective%20Java%20英文版（第2版）.pdf)
 - [《Java编程思想（第4版）》](./Java/Java编程思想（第4版）.pdf)
