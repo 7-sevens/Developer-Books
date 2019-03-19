@@ -74,6 +74,17 @@
 - [《Lua5.3参考手册》](./Lua/Lua5.3参考手册.pdf)
 
 
+### JavaScript
+- [《JavaScript权威指南(第6版)》](./JavaScript/JavaScript权威指南(第6版）.pdf)
+- [《JavaScript高级程序设计(第3版)》](./JavaScript/JavaScript高级程序设计(第3版）.pdf)
+- [《精通JavaScript》](./JavaScript/精通JavaScript.pdf)
+- [《JavaScript语言精粹》](./JavaScript/JavaScript语言精粹.pdf)
+- [《你不知道的JavaScript（上卷）》](./JavaScript/你不知道的JavaScript（上卷）.pdf)
+- [《你不知道的JavaScript（中卷）》](./JavaScript/你不知道的JavaScript（中卷）.pdf)
+- [《你不知道的JavaScript（下卷）》](./JavaScript/你不知道的JavaScript（下卷）.pdf)
+- [《JavaScript函数式编程》](./JavaScript/JavaScript函数式编程.pdf)
+
+
 ---
 
 ## 网络相关书籍
