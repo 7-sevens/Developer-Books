@@ -97,10 +97,14 @@
 
 ### TCP
 
-- [《TCP_IP详解-卷1》](./TCP/TCP_IP详解-卷1.pdf)
-- [《TCP_IP详解-卷2》](./TCP/TCP_IP详解-卷2.pdf)
-- [《TCP_IP详解-卷3》](./TCP/TCP_IP详解-卷3.pdf)
+- [《TCP/IP详解-卷1》](./TCP/TCP_IP详解-卷1.pdf)
+- [《TCP/IP详解-卷2》](./TCP/TCP_IP详解-卷2.pdf)
+- [《TCP/IP详解-卷3》](./TCP/TCP_IP详解-卷3.pdf)
 
 
 
 ### HTTP
+
+- [《图解HTTP》](./HTTP/图解HTTP.pdf)
+- [《HTTP权威指南》](./HTTP/HTTP权威指南.pdf)
+- [《Web性能权威指南》](./HTTP/Web性能权威指南.pdf)
