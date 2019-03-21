@@ -102,9 +102,20 @@
 - [《TCP/IP详解-卷3》](./TCP/TCP_IP详解-卷3.pdf)
 
 
-
 ### HTTP
 
 - [《图解HTTP》](./HTTP/图解HTTP.pdf)
 - [《HTTP权威指南》](./HTTP/HTTP权威指南.pdf)
 - [《Web性能权威指南》](./HTTP/Web性能权威指南.pdf)
+
+
+---
+
+
+## 编程思想相关书籍
+
+### Design Pattern 设计模式
+
+- [《HeadFirst设计模式》](./Design_Pattern/HeadFirst设计模式.pdf)
+- [《设计模式之禅》](./Design_Pattern/设计模式之禅.pdf)
+- [《设计模式：可复用面向对象软件的基础》](./Design_Pattern/设计模式：可复用面向对象软件的基础.pdf)
