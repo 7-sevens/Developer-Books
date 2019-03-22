@@ -112,6 +112,21 @@
 ---
 
 
+## 计算机、操作系统相关书籍
+
+### Operating System 操作系统
+
+- [《计算的本质：深入剖析程序和计算机》](./Operating_System/计算的本质：深入剖析程序和计算机.pdf)
+- [《计算机程序的构造和解释（第2版）》](./Operating_System/计算机程序的构造和解释（第2版）)
+- [《深入理解计算机系统》](./Operating_System/深入理解计算机系统.pdf)
+- [《现代操作系统（第3版）》](./Operating_System/现代操作系统（第3版）.pdf)
+- [《编译原理（第2版）》](./Operating_System/编译原理（第2版）.pdf)
+- [《编码：隐匿在计算机软硬件背后的语言》](./Operating_System/编码：隐匿在计算机软硬件背后的语言.pdf)
+
+
+---
+
+
 ## 编程思想相关书籍
 
 ### Design Pattern 设计模式
