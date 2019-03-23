@@ -133,7 +133,16 @@
 
 ### Linux & Unix
 
-
+- [《快乐的Linux命令行》](./Linux/快乐的Linux命令行.pdf)
+- [《跟我一起写makefile》](./Linux/跟我一起写makefile.pdf)
+- [《理解Linux进程》](./Linux/理解Linux进程.pdf)
+- [《深入理解linux内核（第三版）》](./Linux/深入理解linux内核（第三版）.pdf)
+- [《深入Linux内核架构》](./Linux/深入Linux内核架构.pdf)
+- [《Linux内核设计与实现（第三版）》](./Linux/Linux内核设计与实现（第三版）.pdf)
+- [《Linux内核文档》](./Linux/Linux内核文档.pdf)
+- [《UNIX编程艺术》](./Linux/UNIX编程艺术.pdf)
+- [《UNIX操作系统设计》](./Linux/UNIX操作系统设计.pdf)
+- [《UNIX环境高级编程（第三版）》](./Linux/UNIX环境高级编程（第三版）.pdf)
 
 
 ---
