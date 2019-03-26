@@ -155,3 +155,20 @@
 - [《HeadFirst设计模式》](./Design_Pattern/HeadFirst设计模式.pdf)
 - [《设计模式之禅》](./Design_Pattern/设计模式之禅.pdf)
 - [《设计模式：可复用面向对象软件的基础》](./Design_Pattern/设计模式：可复用面向对象软件的基础.pdf)
+
+
+### 编码规范
+
+---
+
+
+## 开源项目相关书籍
+
+### Nginx
+
+- [《深入理解Nginx：模块开发与架构解析（第2版）》](./Nginx/深入理解Nginx：模块开发与架构解析（第2版）.pdf)
+
+
+### Nginx
+
+- [《libevent参考手册（中文版）》](./Libevent/libevent参考手册（中文版）.pdf)
