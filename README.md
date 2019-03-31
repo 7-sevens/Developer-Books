@@ -194,6 +194,14 @@
 - [《深入理解Nginx：模块开发与架构解析（第2版）》](./Nginx/深入理解Nginx：模块开发与架构解析（第2版）.pdf)
 
 
-### Nginx
+### Libevent
 
 - [《libevent参考手册（中文版）》](./Libevent/libevent参考手册（中文版）.pdf)
+
+
+### Redis
+
+- [《Redis入门指南（第2版）》](./Redis/Redis入门指南（第2版）.pdf)
+- [《Redis设计与实现》](./Redis/Redis设计与实现.pdf)
+- [《Redis实战》](./Redis/Redis实战.pdf)
+- [《Redis开发与运维》](./Redis/Redis开发与运维.pdf)
