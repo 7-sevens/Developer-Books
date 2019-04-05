@@ -37,6 +37,7 @@
 - [《C++并发编程指南》](./Cpp/C++并发编程指南.pdf)
 - [《C++11新特性解析与应用》](./Cpp/C++11新特性解析与应用.pdf)
 - [《C++反汇编与逆向分析技术揭秘》](./Cpp/C++反汇编与逆向分析技术揭秘.pdf)
+- [《CPlusPlus Notes For Professionals》](./Cpp/CPlusPlus_Notes_For_Professionals.pdf)
 
 
 ### Java
