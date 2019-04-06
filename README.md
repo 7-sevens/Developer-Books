@@ -162,6 +162,20 @@
 ---
 
 
+## 数据库相关书籍
+
+### MySQL
+
+- [《MySQL必知必会》](./MySQL/MySQL必知必会.pdf)
+- [《高性能MySQL（第3版）中文版》](./MySQL/高性能MySQL（第3版）中文版.pdf)
+- [《MySQL技术内幕：InnoDB存储引擎》](./MySQL/MySQL技术内幕：InnoDB存储引擎.pdf)
+- [《MySQL性能调优与架构设计》](./MySQL/MySQL性能调优与架构设计.pdf)
+
+
+
+---
+
+
 ## 编程思想相关书籍
 
 ### Design Pattern 设计模式
