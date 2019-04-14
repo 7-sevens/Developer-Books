@@ -164,6 +164,12 @@
 
 ## 数据库相关书籍
 
+### SQL
+
+- [《SQL基础教程》](./SQL/SQL基础教程.pdf)
+- [《SQL学习指南》](./SQL/SQL学习指南.pdf)
+
+
 ### MySQL
 
 - [《MySQL必知必会》](./MySQL/MySQL必知必会.pdf)
