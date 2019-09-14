@@ -207,6 +207,8 @@
 
 ### 编码规范
 
+- [《阿里巴巴Android开发手册》](./Code_Style_Guide/阿里巴巴Android开发手册.pdf)
+
 
 ### 敏捷开发
 
