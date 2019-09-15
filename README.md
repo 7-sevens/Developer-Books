@@ -93,6 +93,16 @@
 - [《JavaScript函数式编程》](./JavaScript/JavaScript函数式编程.pdf)
 
 
+### NodeJS
+
+- [《了不起的Node.js》](./NodeJS/了不起的Node.js.pdf)
+- [《深入浅出Node.js》](./NodeJS/深入浅出Node.js.pdf)
+- [《Node.js开发指南》](./NodeJS/Node.js开发指南.pdf)
+- [《Node.js实战》](./NodeJS/Node.js实战.pdf)
+- [《Node即学即用.js》](./NodeJS/Node即学即用.pdf)
+- [《Node学习指南》](./NodeJS/Node学习指南.pdf)
+- [《Node与Express开发.js》](./NodeJS/Node与Express开发.pdf)
+
 ---
 
 
