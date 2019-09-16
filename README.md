@@ -218,6 +218,9 @@
 ### 编码规范
 
 - [《阿里巴巴Android开发手册》](./Code_Style_Guide/阿里巴巴Android开发手册.pdf)
+- [《阿里巴巴Java开发手册（正式版）》](./Code_Style_Guide/阿里巴巴Java开发手册（正式版）.pdf)
+- [《代码整洁之道》](./Code_Style_Guide/代码整洁之道.pdf)
+- [《重构：改善既有代码的设计》](./Code_Style_Guide/重构：改善既有代码的设计.pdf)
 
 
 ### 敏捷开发
