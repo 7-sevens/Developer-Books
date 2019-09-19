@@ -221,6 +221,9 @@
 - [《阿里巴巴Java开发手册（正式版）》](./Code_Style_Guide/阿里巴巴Java开发手册（正式版）.pdf)
 - [《代码整洁之道》](./Code_Style_Guide/代码整洁之道.pdf)
 - [《重构：改善既有代码的设计》](./Code_Style_Guide/重构：改善既有代码的设计.pdf)
+- [《编写可读代码的艺术》](./Code_Style_Guide/编写可读代码的艺术.pdf)
+- [《程序设计方法》](./Code_Style_Guide/程序设计方法.pdf)
+- [《程序设计实践》](./Code_Style_Guide/程序设计实践.pdf)
 
 
 ### 敏捷开发
