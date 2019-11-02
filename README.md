@@ -281,3 +281,14 @@
 - [《Android-Design-4.0》](./Product/Android-Design-4.0.pdf)
 - [《Android交互视觉设计规范》](./Product/Android交互视觉设计规范.pdf)
 - [《iOS人机界面指导手册》](./Product/iOS人机界面指导手册.pdf)
+
+
+---
+
+
+## 其他
+
+- [《如何阅读一本书》](./Other/如何阅读一本书.pdf)
+- [《程序员修炼之道：从小工到专家》](./Other/程序员修炼之道：从小工到专家.pdf)
+- [《高效程序员的45个习惯》](./Other/高效程序员的45个习惯.pdf)
+- [《七周七语言：理解多种编程范型》](./Other/七周七语言：理解多种编程范型.pdf)
