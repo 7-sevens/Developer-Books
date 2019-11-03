@@ -255,6 +255,7 @@
 ### Nginx
 
 - [《深入理解Nginx：模块开发与架构解析（第2版）》](./Nginx/深入理解Nginx：模块开发与架构解析（第2版）.pdf)
+- [《深入理解Nginx模块开发与架构解析》](./Nginx/深入理解Nginx模块开发与架构解析.pdf)
 
 
 ### Libevent
