@@ -103,6 +103,13 @@
 - [《Node学习指南》](./NodeJS/Node学习指南.pdf)
 - [《Node与Express开发.js》](./NodeJS/Node与Express开发.pdf)
 
+
+### Android
+
+- [《Android编程权威指南（第2版）》](./Android/Android编程权威指南（第2版）.pdf)
+- [《kotlin-in-chinese》](./Android/kotlin-in-chinese.pdf)
+
+
 ---
 
 
@@ -298,3 +305,9 @@
 - [《程序员修炼之道：从小工到专家》](./Other/程序员修炼之道：从小工到专家.pdf)
 - [《高效程序员的45个习惯》](./Other/高效程序员的45个习惯.pdf)
 - [《七周七语言：理解多种编程范型》](./Other/七周七语言：理解多种编程范型.pdf)
+
+---
+---
+**PS**: 更多资源，欢迎关注微信公众号：developer1024
+
+![这里写图片描述](./images/wechat_qrcode.jpeg)
