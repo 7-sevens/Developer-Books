@@ -7,7 +7,6 @@
 >- brief: 编程开发相关书籍收集分享，持续更新...
 >
 >- remark: 关于本仓库端相关pdf书籍文件，100M以内的文件会直接上传到该仓库，大于100M到会上传到网盘
->
 
 ## 编程语言相关书籍
 
@@ -143,6 +142,7 @@
 - [《TCP/IP详解-卷1》](./TCP/TCP_IP详解-卷1.pdf)
 - [《TCP/IP详解-卷2》](./TCP/TCP_IP详解-卷2.pdf)
 - [《TCP/IP详解-卷3》](./TCP/TCP_IP详解-卷3.pdf)
+- [《图解TCPIP协议》](./Network/图解TCPIP协议.pdf)
 
 
 ### HTTP
@@ -157,6 +157,12 @@
 - 《Linux网络编程》[网盘下载](https://pan.baidu.com/s/1JzLT5M1Rwnom62z6Gidz_g) [提取密码：k8q1]
 - [《UNIX网络编程卷1：套接字API》](./Network/UNIX网络编程卷1：套接字API.pdf)
 - [《UNIX网络编程卷2：进程间通信》](./Network/UNIX网络编程卷2：进程间通信.pdf)
+
+
+
+### 网络硬件
+
+-   [《图解网络硬件》](./Network/图解网络硬件.pdf)
 
 
 ---
@@ -225,6 +231,7 @@
 - [《HeadFirst设计模式》](./Design_Pattern/HeadFirst设计模式.pdf)
 - [《设计模式之禅》](./Design_Pattern/设计模式之禅.pdf)
 - [《设计模式：可复用面向对象软件的基础》](./Design_Pattern/设计模式：可复用面向对象软件的基础.pdf)
+- [《图解设计模式》](./Design_Pattern/图解设计模式.pdf)
 
 
 ### 编码规范
@@ -243,6 +250,15 @@
 - [《火星人敏捷开发手册》](./Scrum_Develop/火星人敏捷开发手册.pdf)
 
 ---
+
+## 安全相关书籍
+
+### 密码学
+
+-   [《图解密码技术》](./Security/图解密码技术.pdf)
+
+---
+
 
 
 ## 面试相关书籍
