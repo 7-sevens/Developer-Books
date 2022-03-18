@@ -77,9 +77,9 @@
 - [《Go源码剖析》](./Go/Go源码剖析.pdf)
 
 ### PHP
-- [《PHP精粹 编写高效PHP代码》](./PHP/《PHP精粹-编写高效PHP代码》.(LornaMitchell).[PDF].&ckook.pdf)
-- [《PHP设计模式》](./PHP/《PHP设计模式》.((美)AaronSaray).[PDF].&ckook(jb51.net).pdf)
-- [深入PHP：面向对象、模式与实践(第三版)](./PHP/深入PHP：面向对象、模式与实践(第三版)中文_有书签.pdf)
+- [《PHP精粹 编写高效PHP代码》](./PHP/《PHP精粹-编写高效PHP代码》.(LornaMitchell).pdf)
+- [《PHP设计模式》](./PHP/《PHP设计模式》.((美)AaronSaray).pdf)
+- [《深入PHP：面向对象、模式与实践(第三版)》](./PHP/深入PHP：面向对象、模式与实践(第三版)中文_有书签.pdf)
 
 ### Lua
 - [《Lua5.3参考手册》](./Lua/Lua5.3参考手册.pdf)
