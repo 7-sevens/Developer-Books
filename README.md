@@ -225,6 +225,7 @@
 - [《HeadFirst设计模式》](./Design_Pattern/HeadFirst设计模式.pdf)
 - [《设计模式之禅》](./Design_Pattern/设计模式之禅.pdf)
 - [《设计模式：可复用面向对象软件的基础》](./Design_Pattern/设计模式：可复用面向对象软件的基础.pdf)
+- [《深入设计模式》](./Design_Pattern/深入设计模式.pdf)
 
 
 ### 编码规范
