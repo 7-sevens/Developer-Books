@@ -205,6 +205,8 @@
 - [《高性能MySQL（第3版）中文版》](./MySQL/高性能MySQL（第3版）中文版.pdf)
 - [《MySQL技术内幕：InnoDB存储引擎》](./MySQL/MySQL技术内幕：InnoDB存储引擎.pdf)
 - [《MySQL性能调优与架构设计》](./MySQL/MySQL性能调优与架构设计.pdf)
+- [《 MySQL 5.7 Reference Manual》](./MySQL/MySQL%205.7%20Reference%20Manual%20-%20en.pdf)
+- [《MySQL 8.0 Reference Manual》](./MySQL/MySQL%208.0%20Reference%20Manual%20-%20en.a4.pdf)
 
 
 ### MongoDB
